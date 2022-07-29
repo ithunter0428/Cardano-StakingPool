@@ -1,4 +1,4 @@
-# staking-pool-sc
+# Staking Pool based on Cardano
 
 ## Introduction
 
